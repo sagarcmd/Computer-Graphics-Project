@@ -5,7 +5,7 @@ Class Project -- Village School with waving Bangladeshi Flag, Big Tree, 2 type o
 <h2>Welcome To Small Graphics Project </h2>
 
 <p>Welcome To Small Graphics Project .</p>
-<li>
+    <ul>This class contain---</ul>
     <ul>Village School with waving Bangladeshi Flag</ul>
     <ul>Big Tree </ul> 
     <ul>2 types of Flowers</ul>   
@@ -15,6 +15,5 @@ Class Project -- Village School with waving Bangladeshi Flag, Big Tree, 2 type o
     <ul> Flying Bird </ul>   
     <ul>& School Boy.</ul>   
        
-</li>
 
 &copy; Sagor Mohajan-2024
